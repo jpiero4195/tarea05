@@ -1,4 +1,4 @@
-//Fecha: 08-06-2024
+//Fecha: 13-06-2024
 //Author: Jean Valencia
 //Tema: Diseñe la funcion que imprima una tabla de multiplicar que
 //se pasa como parametro
