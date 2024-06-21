@@ -1,0 +1,8 @@
+Calificación: 3/4
+
+No debe subir archivos .exe - Use el archivo .gitignore para excluirlos
+En el documento de Word/pdf debe indicar el número y literal del ejercicio
+Falta documentar ciertas funciones
+Desde el main hay que llamar al menos 2 veces a cada función
+Revise los comentarios en mayúsculas que he dejado en sus ejercicios.
+
