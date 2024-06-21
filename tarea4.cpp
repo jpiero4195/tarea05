@@ -18,7 +18,7 @@ int sumcantidades(int num1, int num2, int num3){
         cout << "El numero aleatorio es:" << numale << endl;
         suma += numale;
     }
-    cout << "El numero de cifras es: " << suma << endl;
+    cout << "El numero de cifras es: " << suma << endl; //LA FUNCION NO DEBE IMPRIMIR
 
     return suma;
 }
