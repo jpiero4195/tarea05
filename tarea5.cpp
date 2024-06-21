@@ -17,6 +17,9 @@ void tablaMultiplicar(int tabla){// viod es vacio y returna automaticamente
 //el limite inferior y limite superior de la tabla
 
 void tablaMultiplicarLimite(int tabla, int ini=1, int fin=12){// viod es vacio y returna automaticamente
+
+    //DENTRO DE ESTA FUNCION DEBE LLAMAR A tablaMultiplicar
+    
     cout<<endl<<"Tabla de multiplicar del "<<tabla;
     for(int k=ini;k<=fin;k++){
         cout<<endl<<tabla<<" X "<<k<<" = "<< tabla*k;
